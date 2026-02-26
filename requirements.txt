@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-geopy
-fpdf2
-kaleido
